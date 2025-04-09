@@ -1,0 +1,11 @@
+:\This mod changes the normal drop rates based on the battle star rating.
+:\Ratings of 2 or less stars are a normal drop rate while 3 starts and
+:\above give increasing drop rates, up to 2x for a 5 star rating.
+:\
+db\resident\bt_constants.wdb
+iDropProbNm0,0,w,100
+iDropProbNm1,0,w,100
+iDropProbNm2,0,w,100
+iDropProbNm3,0,w,125
+iDropProbNm4,0,w,150
+iDropProbNm5,0,w,200

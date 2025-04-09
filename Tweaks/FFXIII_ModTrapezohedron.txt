@@ -1,0 +1,9 @@
+:\This mod changes the rare drop rate for an Adamantortoise from a Trapezohedran to
+:\Adamantite.  The rare drop rate is also increased from 1% to 3% to compensate for
+:\the lower value drop.  This mod was created as there is no place within the game
+:\to acquire adamantite other than purchasing it from a shop.
+db\resident\bt_chara_spec.wdb
+m186a,61,l,material_o009
+m186a_x1,61,l,material_o009
+m186a,88,i,100
+m186a_x1,88,i,100

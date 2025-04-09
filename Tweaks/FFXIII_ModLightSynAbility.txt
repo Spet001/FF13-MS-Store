@@ -1,0 +1,9 @@
+:\This mod adjusts the order of some of Lightning's synergist abilities.  Haste is brought to an
+:\earlier stage and the others adjusted somewhat.  The thought is that this will change the dynamic
+:\when Lightning is in the party and all the roles open up.
+db\crystal\crystal_lightning.wdb
+cr_lteh03050000,1,l,me020_00
+cr_lteh05050000,1,l,me500_00
+cr_lteh07050000,1,l,me050_00
+cr_lteh09050000,1,l,me060_00
+cr_lteh10100000,1,l,ade850_00

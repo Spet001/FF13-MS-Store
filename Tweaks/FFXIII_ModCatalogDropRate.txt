@@ -1,0 +1,7 @@
+:\This mod increases the drop rates when a Collectors Catalog or a Connoisseur Catalog is equiped.
+:\
+:\   Collector's Catalog drop rate increased from +50% to +100%
+:\   Connoisseur's Catalog drop rate increased from +10% to +50%
+db\resident\bt_auto_ability.wdb
+auto_drop_0,7,bs,10000
+auto_drop_1,7,bs,5000

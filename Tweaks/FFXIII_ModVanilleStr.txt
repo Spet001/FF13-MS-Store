@@ -1,0 +1,20 @@
+:\This mod converts 200 of Vanille's strength to 200 magic in the 9th and 10th stage of the crystarium.  It
+:\also lowers Vanille's hit points by 50 total.  With a complete crystarium, Vanille's magic will be 1900,
+:\and her strength will be 1200.
+db\crystal\crystal_vanille.wdb
+cr_vabl09060000,2,ib,3
+cr_vabl09080000,2,i,26
+cr_vabl09140000,2,ib,3
+cr_vahl09140000,2,ib,3
+cr_vahl09030130,2,ib,3
+cr_vaja09140000,2,ib,3
+cr_vaja09090000,2,i,30
+cr_vaja09090000,2,ib,3
+cr_vabl10030000,2,ib,3
+cr_vahl10030000,2,ib,3
+cr_vaja10030000,2,ib,3
+cr_vabl10010000,2,i,280
+cr_vabl10020000,2,i,280
+cr_vaja10010000,2,i,280
+cr_vaja10020000,2,i,280
+cr_vahl10010000,2,i,280

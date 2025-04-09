@@ -1,0 +1,19 @@
+:\This mod changes the base chain increment for the -strike abilities.  By adjusting the base
+:\increment downward, this causes the AI to not choose these abilities unless other factors exist
+:\(such as a weakness to an element).  In this manner, the alternating magic/strike animation will
+:\no longer occur with a high frequency.  There are two versions of this mod.  The first Chain 99%
+:\only reduces the base chain increment from 10.0% to 9.9%.  This will prevent alternating strikes
+:\under normal circumstances or for enemies with multiple weaknesses.  The other version reduces
+:\the base chain increment to 9.2% eliminating the -strike attacks for even enemies that have only
+:\one weakness.  The downside to this mod is that the chain gauge will increase less per full ATB
+:\bar, however this will not affect any additional chain bonuses as the AI will still alternate
+:\attacks, just not with the -strike abilities.
+db\resident\damagesrc.wdb
+at010_10_sub,5,w,1000
+at010_20_sub,5,w,1000
+at010_30_sub,5,w,1000
+at010_40_sub,5,w,1000
+at010_10_sub,10,w,1000
+at010_20_sub,10,w,1000
+at010_30_sub,10,w,1000
+at010_40_sub,10,w,1000

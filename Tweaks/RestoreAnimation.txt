@@ -1,0 +1,26 @@
+:\This mod shortens the paradigm shift animation.  It removes most of the
+:\animation but leaves the hud update and sound along with a quick
+:\motion by the party members.  The camera also does not shift position.
+:\
+db\resident\bt_camarts_seq.wdb
+:NOUNINSTALL
+:RENAME,1,form_changexx,form_change01
+:RENAME,0,form_change01,form_change01
+form_change01,5,l,form_change_c00
+form_change01,8,f,1
+form_change01,10,l,form_change_c01
+form_change01,13,f,1
+form_change01,15,l,form_change_c02
+form_change01,16,f,0
+form_change01,18,f,1
+form_change01,20,l,form_change_c03
+form_change01,23,w,0.5
+form_change01,26,w,1.25
+form_change01,43,ii,0
+form_change01,45,i,258
+form_change01,46,i,2
+form_change01,46,ii,258
+form_change02,8,f,1.5
+form_change02,13,f,0.3
+form_change02,10,l,form_change_c03
+form_change02,5,l,form_change_x00

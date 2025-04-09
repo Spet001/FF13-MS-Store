@@ -1,0 +1,4 @@
+db\resident\bt_camarts_seq.wdb
+:NOUNINSTALL
+:RENAME,0,form_change01,form_changexx
+

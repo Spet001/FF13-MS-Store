@@ -1,0 +1,8 @@
+:\Change the character running speed
+db\resident\charafamily.wdb
+fam_pc_vanira,5,bbbb,96
+fam_pc_fang,5,bbbb,96
+fam_pc_hope,5,bbbb,88
+fam_pc_light,5,bbbb,96
+fam_pc_sazz,5,bbbb,96
+fam_pc_snow,5,bbbb,96

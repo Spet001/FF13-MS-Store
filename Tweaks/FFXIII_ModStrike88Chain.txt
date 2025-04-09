@@ -1,0 +1,9 @@
+db\resident\damagesrc.wdb
+at010_10_sub,5,w,880
+at010_20_sub,5,w,880
+at010_30_sub,5,w,880
+at010_40_sub,5,w,880
+at010_10_sub,10,w,880
+at010_20_sub,10,w,880
+at010_30_sub,10,w,880
+at010_40_sub,10,w,880
