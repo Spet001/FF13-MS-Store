@@ -11,7 +11,7 @@
 
 - **Performance improvements**: Enhances game stability and overall performance.
 - **Bug fixes**: Resolves known issues affecting gameplay.
-- **4GB Patch compatibility**: Allows the game to use more memory, reducing crashes and stuttering.
+- **Gameplay Tweaks**: Allows the game to use gameplay tweaks mods.
 
 ## 🛠️ Installation
 
